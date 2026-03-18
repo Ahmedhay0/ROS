@@ -1,0 +1,8 @@
+ROS is a framework for building robot software it offer utilities such as hardware abstraction, message
+passing, file systems, tools and libraries. 
+Instead of working directly with the hardware ROS works with the drivers making it possible to use the
+same code for different devices instead of having a code for every device.
+In ROS you can create a network between nodes based on a subscriber/publisher system where nodes sending 
+information publish the needed info on topics which other nodes can subscribe to to access this info.
+It also enables file system management as well as useful debugging and simulation tools to test your
+code.
