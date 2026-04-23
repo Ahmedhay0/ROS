@@ -1,0 +1,7 @@
+1:-rw-r--r-- the first dash indicates the start of a file while others are for unavailable permissions 
+r is readable,w writable and x is excecutable
+2:script.sh you can know from chmod since the numbers are odd and 1 stands for x or from ls you can see that
+it is the only file with x permissions
+3:secret.txt group and others don't have any permissions
+4:In file1 group and others can read the file while in secret they can't in both files the owner can read and write
+5:owner is the user that created the file, group is chosen users that have special permissions and others are any other user

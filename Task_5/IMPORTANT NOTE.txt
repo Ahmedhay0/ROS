@@ -1,0 +1,2 @@
+in the python script there was a problem where in the end any input would return you to menu instead of exiting the file
+so i used sys.exit() but i didn't have time to edit or remake the video
