@@ -1,0 +1,11 @@
+#Problem 1:
+this problem is straightforward i used super() on the speak method and added print("woof")
+#Problem 2:
+after initializing the class to add students i append the name to the students list and used len to count them
+#problem 3,4:
+these two are mostly the same in both we have a class that has a list attribute which i used append() to add
+to after checking that the objects are in the required class
+#problem 5:
+since the area() method in Shape is essentialy useless because i can't make an area() function for all
+possible shapes so i decided to make it an abstract method which took some time because brocode's video
+was outdated because the syntax changed in 3.3 then in print_area() i added a condition to check if input is actually a shape
